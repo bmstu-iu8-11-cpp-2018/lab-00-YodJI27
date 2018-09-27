@@ -1,8 +1,7 @@
 #include <iostream>
-ine mail()
+int mail()
 {
     std::cout <<"Hello word" << std::endl;
-    system ("pause");
     return 0;
 }
 
